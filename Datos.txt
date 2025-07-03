@@ -7,8 +7,8 @@
 - Turno noche.
 - Estudiante: Barrera Francisco A.
 - Estudiante: Rezola Camila.
-- Estudiante: Velazquez Guadalupe
+- Estudiante: Velazquez Guadalupez
 - Estudiante: Martinez Candela
 - Docente: Medina Sergio Daniel.
-- URL: 
+- URL: https://camii-s.github.io/Parcial-II_Barrera_Rezola_Velazquez_Martinez/
 
